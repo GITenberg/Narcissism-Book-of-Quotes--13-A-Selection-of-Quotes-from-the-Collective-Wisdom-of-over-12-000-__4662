@@ -1,0 +1,28 @@
+_repo: Narcissism-Book-of-Quotes--13-A-Selection-of-Quotes-from-the-Collective-Wisdom-of-over-12-000-__4662
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Vaknin, Samuel
+    aliases:
+    - Vaknin, Sam
+    - Vaknin, Shmuel
+    birthdate: 1961
+    gutenberg_agent_id: '2702'
+    url: http://www.gutenberg.org/2009/agents/2702
+    wikipedia: http://en.wikipedia.org/wiki/Sam_Vaknin
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4662'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'BF'
+- !lcsh 'Narcissism'
+- GITenberg
+title: "Narcissism Book of Quotes\r\nA Selection of Quotes from the Collective Wisdom\
+  \ of over 12,000 Individual Discussions"
+url: http://www.gutenberg.org/ebooks/4662
